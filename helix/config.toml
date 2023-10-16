@@ -1,0 +1,11 @@
+theme = "ayu_dark"
+
+[editor.lsp]
+display-inlay-hints = true
+
+[editor.soft-wrap]
+enable = true
+
+[editor.search]
+smart-case = true
+
